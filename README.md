@@ -1,5 +1,4 @@
-# <img align="center" alt="daily" width="400" src="https://media.daily.dev/image/upload/s--kpnlUpUZ--/f_auto/v1764247826/covers/cover_0EyVDrh2fsnBCtDfvuWRl?_a=BAMAK+ZW0">
-
+# Hi
 ### A Software Developer
 
 <h3 align="left">Connect with me:</h3>
