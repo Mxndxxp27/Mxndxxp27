@@ -1,4 +1,4 @@
-# Hi, I'm Mandeep Diwakar
+# <img align="right" alt="daily" width="400" src="https://app.daily.dev/mxndxxp27">
 
 ### A Software Developer
 
