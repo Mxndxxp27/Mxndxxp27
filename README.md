@@ -1,19 +1,64 @@
-# Hi, I'm Mandeep Diwakar
+<div align="center">
 
-### A Software Developer
+# Hi there, I'm Mandeep Diwakar 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Mxndxxp27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mxndxxp27" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/MbcsYzj9wW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/MbcsYzj9wW" height="30" width="40" /></a>
-</p>
+**Software Developer** · India
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a></p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6EE7B7&center=true&vCenter=true&width=435&lines=Building+things+with+code...;Full+Stack+Developer;Backend+Enthusiast)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mxndxxp27&show_icons=true&locale=en&layout=compact" alt="Mxndxxp27" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mxndxxp27&show_icons=true&locale=en" alt="Mxndxxp27" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mxndxxp27&" alt="Mxndxxp27" /></p>
+### 🧑‍💻 About Me
 
+- 🔭 I'm a software developer passionate about building efficient, scalable applications
+- 💡 I enjoy working across the full stack — backend APIs to clean frontend UIs
+- 🌱 Always learning and exploring new technologies
+- 📍 Based in India
+
+---
+
+### 🛠️ Tech Stack
+
+![C](https://skillicons.dev/icons?i=c)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Java](https://skillicons.dev/icons?i=java)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+![Linux](https://skillicons.dev/icons?i=linux)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mxndxxp27&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mxndxxp27&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mxndxxp27&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Mxndxxp27-6e40c9?style=for-the-badge&logo=github)](https://github.com/Mxndxxp27)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MbcsYzj9wW)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mxndxxp27&color=6ee7b7&style=flat-square&label=Profile+Views" />
+</div>
