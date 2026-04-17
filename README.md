@@ -50,6 +50,14 @@
 
 </div>
 
+<div align="center">
+
+<a href="https://app.daily.dev/mxndxxp27" target="_blank">
+  <img src="https://app.daily.dev/mxndxxp27.png?type=wide&r=mandeep27" width="652" alt="Mandeep Diwakar's Dev Card"/>
+</a>
+
+</div>
+
 ---
 
 ### <img src="https://skillicons.dev/icons?i=discord" width="20"/> Connect With Me
