@@ -52,8 +52,8 @@
 
 <div align="center">
 
-<a href="https://app.daily.dev/mxndxxp27" target="_blank">
-  <img src="https://app.daily.dev/mxndxxp27.png?type=wide&r=mandeep27" width="652" alt="Mandeep Diwakar's Dev Card"/>
+<a href="https://app.daily.dev/mxndxxp27">
+  <img src="https://api.daily.dev/devcards/v2/YOUR_UNIQUE_ID.png?type=wide&r=pqy" width="652" alt="Mandeep Diwakar's Dev Card"/>
 </a>
 
 </div>
