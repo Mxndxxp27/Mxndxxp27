@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Mandeep Diwakar 👋
+# Hi there, I'm Mandeep Diwakar
 
 **Software Developer** · India
 
@@ -10,16 +10,16 @@
 
 ---
 
-### 🧑‍💻 About Me
+### <img src="https://skillicons.dev/icons?i=devto" width="20"/> About Me
 
-- 🔭 I'm a software developer passionate about building efficient, scalable applications
-- 💡 I enjoy working across the full stack — backend APIs to clean frontend UIs
-- 🌱 Always learning and exploring new technologies
-- 📍 Based in India
+- I'm a software developer passionate about building efficient, scalable applications
+- I enjoy working across the full stack — backend APIs to clean frontend UIs
+- Always learning and exploring new technologies
+- Based in India
 
 ---
 
-### 🛠️ Tech Stack
+### <img src="https://skillicons.dev/icons?i=vscode" width="20"/> Tech Stack
 
 ![C](https://skillicons.dev/icons?i=c)
 ![HTML](https://skillicons.dev/icons?i=html)
@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### <img src="https://skillicons.dev/icons?i=github" width="20"/> GitHub Stats
 
 <div align="center">
 
@@ -52,10 +52,14 @@
 
 ---
 
-### 🤝 Connect With Me
+### <img src="https://skillicons.dev/icons?i=discord" width="20"/> Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mxndxxp27-6e40c9?style=for-the-badge&logo=github)](https://github.com/Mxndxxp27)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MbcsYzj9wW)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mandeep%20Diwakar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandeep-diwakar-8511ba39b/)
+[![Instagram](https://img.shields.io/badge/Instagram-mandeep.ly__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mandeep.ly_/)
+[![Twitter / X](https://img.shields.io/badge/Twitter-_mandeep8-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_mandeep8)
+[![Discord](https://img.shields.io/badge/Discord-mandeep.ly-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/946749802572562442)
+[![Fiverr](https://img.shields.io/badge/Fiverr-mandeep2708-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/mandeep2708/buying?source=avatar_menu_profile)
 
 ---
 
