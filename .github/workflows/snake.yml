@@ -20,18 +20,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate GitHub contribution snake
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Move SVGs to root
-        run: |
-          mv dist/github-contribution-grid-snake.svg .
-          mv dist/github-contribution-grid-snake-dark.svg .
+            ./github-contribution-grid-snake.svg
+            ./github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Commit & Push snake
         uses: stefanzweifel/git-auto-commit-action@v5
