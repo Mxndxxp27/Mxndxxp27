@@ -57,6 +57,26 @@ Building efficient & scalable applications
 
 ---
 
+### 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mxndxxp27&theme=tokyonight&hide_border=true&background=0D1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mxndxxp27/Mxndxxp27/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mxndxxp27/Mxndxxp27/main/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mxndxxp27/Mxndxxp27/main/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ### 🌐 Connect With Me
 
 <p align="center">
