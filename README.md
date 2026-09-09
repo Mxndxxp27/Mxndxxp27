@@ -1,76 +1,92 @@
 <div align="center">
 
-# Hi there, I'm Mandeep Diwakar
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Mandeep+%F0%9F%91%8B;Full+Stack+Developer;Building+cool+stuff+with+code" alt="Typing SVG" />
 
-**Software Developer** · India
+**Software Developer** · 🇮🇳 India  
+Building efficient & scalable applications
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6EE7B7&center=true&vCenter=true&width=435&lines=Building+things+with+code...;Full+Stack+Developer;Backend+Enthusiast)
-
-</div>
-
----
-
-### <img src="https://skillicons.dev/icons?i=devto" width="20"/> About Me
-
-- I'm a software developer passionate about building efficient, scalable applications
-- I enjoy working across the full stack — backend APIs to clean frontend UIs
-- Always learning and exploring new technologies
-- Based in India
-
----
-
-### <img src="https://skillicons.dev/icons?i=vscode" width="20"/> Tech Stack
-
-![C](https://skillicons.dev/icons?i=c)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Java](https://skillicons.dev/icons?i=java)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![Linux](https://skillicons.dev/icons?i=linux)
-
----
-
-### <img src="https://skillicons.dev/icons?i=github" width="20"/> GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mxndxxp27&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mxndxxp27&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mxndxxp27&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-<a href="https://app.daily.dev/mxndxxp27">
-  <img src="https://api.daily.dev/devcards/v2/YOUR_UNIQUE_ID.png?type=wide&r=pqy" width="652" alt="Mandeep Diwakar's Dev Card"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Mxndxxp27-181717?style=for-the-badge&logo=github)](https://github.com/Mxndxxp27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mandeep%20Diwakar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mandeep-diwakar-8511ba39b/)
+[![X](https://img.shields.io/badge/X-_mandeep8-000000?style=for-the-badge&logo=x)](https://x.com/_mandeep8)
+[![Instagram](https://img.shields.io/badge/Instagram-mandeep.ly__-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/mandeep.ly_/)
 
 </div>
 
 ---
 
-### <img src="https://skillicons.dev/icons?i=discord" width="20"/> Connect With Me
+### 🧑‍💻 About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mxndxxp27-6e40c9?style=for-the-badge&logo=github)](https://github.com/Mxndxxp27)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mandeep%20Diwakar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandeep-diwakar-8511ba39b/)
-[![Instagram](https://img.shields.io/badge/Instagram-mandeep.ly__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mandeep.ly_/)
-[![Twitter / X](https://img.shields.io/badge/Twitter-_mandeep8-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_mandeep8)
-[![Discord](https://img.shields.io/badge/Discord-mandeep.ly-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/946749802572562442)
-[![Fiverr](https://img.shields.io/badge/Fiverr-mandeep2708-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/mandeep2708/buying?source=avatar_menu_profile)
+- 🔭 Passionate about building clean, scalable full-stack applications
+- 💻 Love working with **Backend APIs**, databases & Discord bots
+- 🌱 Always learning new technologies and improving my craft
+- ⚡ Fun fact: I build useful tools for Discord communities
+- 📍 Based in India
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,java,c,html,css,mongodb,mysql,postgres,sqlite,linux,git,github,vscode" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Mxndxxp27/Slash-Command-Remover">Slash Command Remover</a></h3>
+      <p>A clean Node.js script to quickly & safely remove all Discord slash commands from your bot.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/Mxndxxp27/Slash-Command-Remover?style=flat-square" />
+        <img src="https://img.shields.io/github/languages/top/Mxndxxp27/Slash-Command-Remover?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Fynex Music Bot</h3>
+      <p>Discord music bot with official Privacy Policy & Terms repositories.</p>
+      <p>
+        <a href="https://github.com/Mxndxxp27/Fynex-Music-Privacy-Policy">Privacy Policy</a> ·
+        <a href="https://github.com/Mxndxxp27/Fynex-Music-terms-conditions">Terms</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mxndxxp27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mxndxxp27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mxndxxp27&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Mxndxxp27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mandeep-diwakar-8511ba39b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/_mandeep8"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mandeep.ly_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.com/users/946749802572562442"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.fiverr.com/mandeep2708"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mxndxxp27&color=6ee7b7&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mxndxxp27&color=6ee7b7&style=for-the-badge&label=Profile+Views" />
+  <br/><br/>
+  <i>Thanks for visiting! Feel free to connect ✨</i>
 </div>
