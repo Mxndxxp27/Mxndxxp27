@@ -60,7 +60,7 @@ Building efficient & scalable applications
 ### 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mxndxxp27&theme=tokyonight&hide_border=true&background=0D1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mxndxxp27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
