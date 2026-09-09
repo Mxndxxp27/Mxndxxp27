@@ -57,6 +57,33 @@ Building efficient & scalable applications
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mxndxxp27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mxndxxp27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mxndxxp27&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mxndxxp27/Mxndxxp27/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mxndxxp27/Mxndxxp27/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mxndxxp27/Mxndxxp27/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ### 🌐 Connect With Me
 
 <p align="center">
